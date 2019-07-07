@@ -1,3 +1,5 @@
+A /g/ challenge
+
 # markov-chain-sentence-generator
 A simple python script that takes a sample set of sentences and return probable sentences using markov chains
 
